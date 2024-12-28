@@ -22,12 +22,10 @@ Install the required Python libraries:
 pip install -r requirements.txt
 “`
 
-### Step 3: Download the Dataset and Models
+### Step 3: Download the Dataset 
 Due to file size limitations, the dataset and pretrained models are not included in this repository. You can download them from the following links:
 
 - Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
-- YOLOv4 Weights: Download from Official YOLO Website
-- Trained CNN Model: Download from Google Drive
 
 ### Step 4: Run the Project
 - For Image Detection
