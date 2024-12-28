@@ -46,6 +46,6 @@ To retrain or fine-tune the CNN classifier, open the cnn_classifier.ipynb notebo
 - Image Detection:
 - Video Detection:
 
-![Video Output](videos/sample_detection.gif)
+![Traffic Sign Detection Output](outputs/res.gif)
 
 
